@@ -1,4 +1,4 @@
-[![PoolTogether Brand](https://raw.githubusercontent.com/pooltogether/pooltogether--brand-assets/master/logo/pooltogether-logo%402x.png)](https://github.com/pooltogether/pooltogether--brand-assets)
+[![PoolTogether Brand](https://raw.githubusercontent.com/pooltogether/pooltogether--brand-assets/master/logo/pooltogether-logo--purple-gradient%402x.png)](https://github.com/pooltogether/pooltogether--brand-assets)
 
 <br />
 
