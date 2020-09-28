@@ -1,8 +1,8 @@
-<div style="text-align:center; margin: 0 auto"> 
+<p align="center">
   <a href="https://github.com/pooltogether/pooltogether--brand-assets">
     <img src="https://raw.githubusercontent.com/pooltogether/pooltogether--brand-assets/master/logo/pooltogether-logo--purple-gradient.png" alt="PoolTogether Brand" style="max-width:100%;" width="200">
   </a>
-</div>
+</p>
 
 <br />
 
