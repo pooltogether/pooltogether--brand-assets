@@ -6,11 +6,11 @@
 
 <br />
 
-### PoolTogether - Brand Assets
+## PoolTogether - Brand Assets
 
 Logos for PoolTogether.
 
-##### Usage
+#### Usage
 
 We would like you to use any of the the assets 'as is'. If you need a modified version of any of the logos <a href='mailto:hello@pooltogether.us'>reach out to us</a> and we'll be happy to help.
 
